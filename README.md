@@ -166,3 +166,5 @@ Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome 
 
 1. https://www.traversymedia.com/
 2. https://www.djangoproject.com/
+
+###### Marks touch on it
